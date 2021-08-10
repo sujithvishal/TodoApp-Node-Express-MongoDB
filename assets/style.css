@@ -1,0 +1,21 @@
+body{
+    background:rgb(233, 173, 173);
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    margin:30px;
+}
+.container input{
+    height:20px;
+    margin-bottom:25px;
+    
+}
+.todo-list{
+    background:skyblue;
+    width:300px;
+}
+.todo-list li{
+    margin:15px;
+
+}
